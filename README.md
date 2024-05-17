@@ -14,5 +14,9 @@ Use the following code to install pyvqnet:
 ```
 $ pip install pyvqnet --index-url https://pypi.originqc.com.cn
 ```
+When installing pyvqnet, pyqpanda will be automatically installed as a dependency.
+
 ## Usage
+
+
 
