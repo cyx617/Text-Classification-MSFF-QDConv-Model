@@ -1,4 +1,6 @@
-# Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification
+# Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks
+
+This is the official implementation of the MSFF-QDConv model proposed in the paper "Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification". The MSFF-QDConv model is a QNN model based on the quantum depthwise convolution, quantum embedding, and multi-scale feature fusion mechanism. The MSFF-QDConv model establishes a new state-of-the-art test accuracy of 96.77% on the RP dataset. Due to the use of the quantum depthwise convolution, the MSFF-QDConv model has fewer parameters and lower computational complexity compared to conventional QCNN models. Please refer to the original paper for the details of the model.
 
 ## Overview
 
