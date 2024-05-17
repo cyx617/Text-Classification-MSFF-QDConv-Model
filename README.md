@@ -3,6 +3,9 @@
 ## Overview
 
 ## Results
+<p align="center">
+<img src="results/comparison_with_baselines.png" alt="Alt text"  width="40%" height="40%" />
+</p>
 
 ## Requirements
 - numpy==1.23.5
