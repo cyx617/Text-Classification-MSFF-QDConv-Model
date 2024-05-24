@@ -61,6 +61,14 @@ The ```MC/``` directory has the same code structure.
 
 ## Citation
 
+```
+@article{chen2024msffqdconv,
+  title={Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification},
+  author={Chen, Yixiong and Fang, Weichuan},
+  journal={arXiv preprint arXiv:2405.13515},
+  year={2024}
+}
+```
 
 
 
