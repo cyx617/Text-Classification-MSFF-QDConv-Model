@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is the official implementation of the MSFF-QDConv model proposed in the paper "[Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification](https://arxiv.org/abs/2405.13515)". The MSFF-QDConv model is a QNN model based on the quantum depthwise convolution, quantum embedding, and multi-scale feature fusion mechanism. The MSFF-QDConv model establishes a new state-of-the-art test accuracy of 96.77% on the RP dataset. Due to the use of the quantum depthwise convolution, the MSFF-QDConv model has fewer parameters and lower computational complexity compared to conventional QCNN models. Please refer to the original paper for the details of the model.
+This is the official implementation of the MSFF-QDConv model proposed in the paper "[Multi-scale feature fusion quantum depthwise Convolutional Neural
+Networks for text classification](https://doi.org/10.1016/j.enganabound.2025.106158)". The MSFF-QDConv model is a QNN model based on the quantum depthwise convolution, quantum embedding, and multi-scale feature fusion mechanism. The MSFF-QDConv model establishes a new state-of-the-art test accuracy of 96.77% on the RP dataset. Due to the use of the quantum depthwise convolution, the MSFF-QDConv model has fewer parameters and lower computational complexity compared to conventional QCNN models. Please refer to the original paper for the details of the model.
 
 <p align="center">
   <img src="images/architecture.png" alt="Alt text" width="80%" height="80%" />
@@ -63,10 +64,13 @@ The ```MC/``` directory has the same code structure.
 
 ```
 @article{chen2024multi,
-  title={Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification},
+  title={Multi-scale feature fusion quantum depthwise Convolutional Neural Networks for text classification},
   author={Chen, Yixiong and Fang, Weichuan},
-  journal={arXiv preprint arXiv:2405.13515},
-  year={2024}
+  journal={Engineering Analysis with Boundary Elements},
+  volume={174},
+  pages={106158},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
